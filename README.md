@@ -9,7 +9,7 @@ Welcome to my certifications repository! This space showcases my professional le
 ### 🟢 **Business & HR**
 - **GE Aerospace - Human Resources Virtual Internship**  
   *Platform:* [The Forage](https://github.com/akankshasharmahr/certificates/GE_Aerospace_HR_Internship.pdf)<br>
-   [![DataCamp Certificate](https://github.com/akankshasharmahr/certificates/Certifications/thumb/GE_Aerospace_HR_Internship.jpg)](https://github.com/akankshasharmahr/certificates/GE_Aerospace_HR_Internship.pdf)
+   [![DataCamp Certificate](https://github.com/akankshasharmahr/certificates/blob/main/Certifications/thumb/ANRA_Consulting_Experience_Certificate.jpg)](https://github.com/akankshasharmahr/certificates/GE_Aerospace_HR_Internship.pdf)
 
 - **Accenture Australia - Strategy Consulting Virtual Internship**  
   *Platform:* [The Forage](https://github.com/akankshasharmahr/certificates/Accenture_Strategy_Consulting.pdf)<br>
