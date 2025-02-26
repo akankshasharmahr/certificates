@@ -22,7 +22,7 @@ Welcome to my certifications repository! This space showcases my professional le
 - **ANRA Consulting Pvt. LTD. - Human Resources Virtual Internship**  
   *Certificate PDF :* [ANRA_Consulting_Experience_Certificate.pdf](https://github.com/akankshasharmahr/certificates/ANRA_Consulting_Experience_Certificate.pdf)<br>
   
-  <a href="https://github.com/akankshasharmahr/certificates/blob/main/Certifications/ANRA_Consulting_Experience_Certificate" target="_blank">
+  <a href="https://github.com/akankshasharmahr/certificates/blob/main/Certifications/ANRA_Consulting_Experience_Certificate.pdf" target="_blank">
     <img src="https://github.com/akankshasharmahr/certificates/blob/main/Certifications/thumb/ANRA_Consulting_Experience_Certificate.jpg" alt="DataCamp Certificate" width="250px">
   </a>
  
