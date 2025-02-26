@@ -6,30 +6,26 @@ Welcome to my certifications repository! This space showcases my professional le
 
 ## 🎓 **Certifications**
 
-### 🟢 **Data Science & Cloud**
-- **[DataCamp Associate Data Scientist Program](https://www.datacamp.com/)**  
-  *Status:* Completed ✅
-- **AWS Certified Cloud Practitioner (Expected)**  
-  *Status:* In Progress ⏳
-- **Google Cloud Fundamentals (Expected)**  
-  *Status:* In Progress ⏳
-
 ### 🟢 **Business & HR**
 - **GE Aerospace - Human Resources Virtual Internship**  
-  *Platform:* [The Forage](https://www.theforage.com/)
-- **Accenture Australia - Strategy Consulting Virtual Internship**  
-  *Platform:* [The Forage](https://www.theforage.com/)
+  *Platform:* [The Forage](https://github.com/akankshasharmahr/certificates/GE_Aerospace_HR_Internship.pdf)
+   [![DataCamp Certificate](https://github.com/akankshasharmahr/certificates/thumb/GE_Aerospace_HR_Internship.jpg)](https://github.com/akankshasharmahr/certificates/GE_Aerospace_HR_Internship.pdf)
 
+- **Accenture Australia - Strategy Consulting Virtual Internship**  
+  *Platform:* [The Forage](https://github.com/akankshasharmahr/certificates/Accenture_Strategy_Consulting.pdf)
+   [![DataCamp Certificate](https://github.com/akankshasharmahr/certificates/thumb/Accenture_Strategy_Consulting.jpg)](https://github.com/akankshasharmahr/certificates/Accenture_Strategy_Consulting.pdf)
+  
+- **GE Aerospace - Human Resources Virtual Internship**  
+  *Platform:* [The Forage](https://github.com/akankshasharmahr/certificates/ANRA_Consulting_Experience_Certificate.pdf)
+    [![DataCamp Certificate](https://github.com/akankshasharmahr/certificates/thumb/ANRA_Consulting_Experience_Certificate.jpg)](https://github.com/akankshasharmahr/certificates/ANRA_Consulting_Experience_Certificate.pdf)
 ---
 
-## 📁 **Repository Structure**
+## 📁 **Folder Map**
 ```
 📂 Certifications/
-   ├── 📜 DataCamp_Certificate.pdf
-   ├── 📜 AWS_Cloud_Certificate.pdf
-   ├── 📜 Google_Cloud_Fundamentals.pdf
    ├── 📜 GE_Aerospace_HR_Internship.pdf
    ├── 📜 Accenture_Strategy_Consulting.pdf
+   ├── 📜 ANRA_Consulting_Experience_Certificate.pdf
    ├── README.md
 ```
 Each certification is stored as a PDF file for verification and easy access.
@@ -37,9 +33,10 @@ Each certification is stored as a PDF file for verification and easy access.
 ---
 
 ## 🔗 **Connect With Me**
-- 📧 Email: [akan.sharma1006@gmail.com](mailto:akan.sharma1006@gmail.com)
-- 💼 LinkedIn: [LinkedIn Profile](#)
-- 🌐 Portfolio: [Portfolio/Website](#)
+- 📧 Email: [akan.sharma1006@gmail.com](mailto:hirewithakanksha@gmail.com)
+- 📞 Mobile: [📱](tel:+918085448328 )
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/akankshasharma-hr/)
+
 
 ---
 
