@@ -8,16 +8,16 @@ Welcome to my certifications repository! This space showcases my professional le
 
 ### 🟢 **Business & HR**
 - **GE Aerospace - Human Resources Virtual Internship**  
-  *Platform:* [The Forage](https://github.com/akankshasharmahr/certificates/GE_Aerospace_HR_Internship.pdf)
-   [![DataCamp Certificate](https://github.com/akankshasharmahr/certificates/thumb/GE_Aerospace_HR_Internship.jpg)](https://github.com/akankshasharmahr/certificates/GE_Aerospace_HR_Internship.pdf)
+  *Platform:* [The Forage](https://github.com/akankshasharmahr/certificates/GE_Aerospace_HR_Internship.pdf)<br>
+   [![DataCamp Certificate](https://github.com/akankshasharmahr/certificates/Certifications/thumb/GE_Aerospace_HR_Internship.jpg)](https://github.com/akankshasharmahr/certificates/GE_Aerospace_HR_Internship.pdf)
 
 - **Accenture Australia - Strategy Consulting Virtual Internship**  
-  *Platform:* [The Forage](https://github.com/akankshasharmahr/certificates/Accenture_Strategy_Consulting.pdf)
-   [![DataCamp Certificate](https://github.com/akankshasharmahr/certificates/thumb/Accenture_Strategy_Consulting.jpg)](https://github.com/akankshasharmahr/certificates/Accenture_Strategy_Consulting.pdf)
+  *Platform:* [The Forage](https://github.com/akankshasharmahr/certificates/Accenture_Strategy_Consulting.pdf)<br>
+   [![DataCamp Certificate](https://github.com/akankshasharmahr/certificates/Certifications/thumb/Accenture_Strategy_Consulting.jpg)](https://github.com/akankshasharmahr/certificates/Accenture_Strategy_Consulting.pdf)
   
 - **GE Aerospace - Human Resources Virtual Internship**  
-  *Platform:* [The Forage](https://github.com/akankshasharmahr/certificates/ANRA_Consulting_Experience_Certificate.pdf)
-    [![DataCamp Certificate](https://github.com/akankshasharmahr/certificates/thumb/ANRA_Consulting_Experience_Certificate.jpg)](https://github.com/akankshasharmahr/certificates/ANRA_Consulting_Experience_Certificate.pdf)
+  *Platform:* [The Forage](https://github.com/akankshasharmahr/certificates/ANRA_Consulting_Experience_Certificate.pdf)<br>
+    [![DataCamp Certificate](https://github.com/akankshasharmahr/certificates/Certifications/thumb/ANRA_Consulting_Experience_Certificate.jpg)](https://github.com/akankshasharmahr/certificates/ANRA_Consulting_Experience_Certificate.pdf)
 ---
 
 ## 📁 **Folder Map**
