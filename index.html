@@ -95,21 +95,25 @@
             background: black; /* Blue line/line under the heading */
             margin: 10px 0; /* Margin for the line */
         }
+        .text-justify {
+            text-align: justify;
+        }
+        
     </style>
 </head>
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-light sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="#">AS</a>
+            <a class="navbar-brand" href="#">AKANKSHA SHARMA</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link" href="#certifications">Certifications</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
                     <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
                 </ul>
@@ -119,13 +123,21 @@
 
     <section class="hero" id="about">
         <div class="container text-center">
-            <img src="https://avatars.githubusercontent.com/u/200940463?v=4" alt="Akanksha Sharma"
-                class="img-fluid mb-4" width="200">
-            <h1 class="display-4 mb-3">Akanksha Sharma</h1>
-            <p class="lead mb-4">Data Scientist | Cloud Enthusiast | HR Professional</p>
-            <div class="d-flex justify-content-center gap-3">
-                <a href="#contact" class="btn btn-primary">Contact Me</a>
-                <a href="#" class="btn btn-outline-primary">Download CV</a>
+            <div class="row align-items-center">
+                <div class="col-md-6 text-start">
+                    <img src="https://avatars.githubusercontent.com/u/200940463?v=4" alt="Akanksha Sharma"
+                        class="img-fluid mb-4" width="300">
+                    <h1 class="display-3 mb-3">Akanksha Sharma</h1>
+                    <p class="lead mb-4">Talent Acquisition Specialist | HR and Operations</p>
+                    <div class="d-flex justify-content-start gap-3">
+                        <a href="#contact" class="btn btn-primary">Contact Me</a>
+                        <a href="#" class="btn btn-outline-primary">Download CV</a>
+                    </div>
+                </div>
+                <div class="col-md-6 text-start">
+                    <h2 class="display-5 mb-3">About Me</h2>
+                    <p class="lead text-justify">I am Akanksha Sharma, an HR Specialist with experience in human resources, business development, and strategy consulting. I have worked with GE Aerospace, Accenture Australia, and ANRA Consulting Pvt. Ltd., gaining expertise in talent acquisition, HR analytics, and market research. Passionate about optimizing HR processes and driving business growth, I thrive in dynamic environments where I can apply my skills to create meaningful impact.</p>
+                </div>
             </div>
         </div>
     </section>
