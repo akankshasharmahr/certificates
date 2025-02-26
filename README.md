@@ -7,28 +7,28 @@ Welcome to my certifications repository! This space showcases my professional le
 ## 🎓 **Certifications**
 
 ### 🟢 **Business & HR**
-- **GE Aerospace - Human Resources Virtual Internship**  
-  *Certificate PDF :* [GE_Aerospace_HR_Internship.pdf](https://github.com/akankshasharmahr/certificates/blob/main/Certifications/GE_Aerospace_HR_Internship.pdf)<br>
-  
+
+- **GE Aerospace - Human Resources Virtual Internship***Certificate PDF :* [GE_Aerospace_HR_Internship.pdf](https://github.com/akankshasharmahr/certificates/blob/main/Certifications/GE_Aerospace_HR_Internship.pdf)`<br>`
+
   <a href="https://github.com/akankshasharmahr/certificates/blob/main/Certifications/GE_Aerospace_HR_Internship.pdf" target="_blank">
     <img src="https://github.com/akankshasharmahr/certificates/blob/main/Certifications/thumb/GE_Aerospace_HR_Internship.jpg" alt="DataCamp Certificate" width="250px">
   </a>
-- **Accenture Australia - Strategy Consulting Virtual Internship**  
-  *Certificate PDF :* [Accenture_Strategy_Consulting.pdf](https://github.com/akankshasharmahr/certificates/blob/main/Certifications/Accenture_Strategy_Consulting.pdf)<br>
-  
+- **Accenture Australia - Strategy Consulting Virtual Internship***Certificate PDF :* [Accenture_Strategy_Consulting.pdf](https://github.com/akankshasharmahr/certificates/blob/main/Certifications/Accenture_Strategy_Consulting.pdf)`<br>`
+
   <a href="https://github.com/akankshasharmahr/certificates/blob/main/Certifications/Accenture_Strategy_Consulting.pdf" target="_blank">
     <img src="https://github.com/akankshasharmahr/certificates/blob/main/Certifications/thumb/Accenture_Strategy_Consulting.jpg" alt="DataCamp Certificate" width="250px">
   </a>
-- **ANRA Consulting Pvt. LTD. - Human Resources Virtual Internship**  
-  *Certificate PDF :* [ANRA_Consulting_Experience_Certificate.pdf](https://github.com/akankshasharmahr/certificates/blob/main/Certifications/ANRA_Consulting_Experience_Certificate.pdf)<br>
-  
+- **ANRA Consulting Pvt. LTD. - Human Resources Virtual Internship**
+  *Certificate PDF :* [ANRA_Consulting_Experience_Certificate.pdf](https://github.com/akankshasharmahr/certificates/blob/main/Certifications/ANRA_Consulting_Experience_Certificate.pdf)`<br>`
+
   <a href="https://github.com/akankshasharmahr/certificates/blob/main/Certifications/ANRA_Consulting_Experience_Certificate.pdf" target="_blank">
     <img src="https://github.com/akankshasharmahr/certificates/blob/main/Certifications/thumb/ANRA_Consulting_Experience_Certificate.jpg" alt="DataCamp Certificate" width="250px">
   </a>
- 
+
 ---
 
 ## 📁 **Folder Map**
+
 ```
 📂 Certifications/
    ├── 📜 GE_Aerospace_HR_Internship.pdf
@@ -36,15 +36,16 @@ Welcome to my certifications repository! This space showcases my professional le
    ├── 📜 ANRA_Consulting_Experience_Certificate.pdf
    ├── README.md
 ```
+
 Each certification is stored as a PDF file for verification and easy access.
 
 ---
 
 ## 🔗 **Connect With Me**
-- 📧 Email: [akan.sharma1006@gmail.com](mailto:hirewithakanksha@gmail.com)
-- 📞 Mobile: [📱](tel:+918085448328 )
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/akankshasharma-hr/)
 
+- 📧 Email: [akan.sharma1006@gmail.com](mailto:hirewithakanksha@gmail.com)
+- 📞 Mobile: [📱](tel:+918085448328)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/akankshasharma-hr/)
 
 ---
 
