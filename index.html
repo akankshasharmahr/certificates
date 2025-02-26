@@ -45,7 +45,7 @@
             height: 3px;
             background-color: #007bff;
         }
-
+        
         .card {
             border: none;
             box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
@@ -74,6 +74,26 @@
 
         .contact-links a:hover {
             color: #0056b3;
+        }
+        .contact-container {
+            border: 2px solid black; /* Thin black line around the container */
+            border-radius: 5px; /* Optional: rounded corners */
+            background-color: white; /* Optional: background color */
+        }
+        
+        .contact-item {
+            margin: 10px 0; /* Space between items */
+        }
+        
+        .icon {
+            margin-right: 8px; /* Space between icon and text */
+        }
+        
+        .divider {
+            border: 0;
+            height: 1px;
+            background: black; /* Blue line/line under the heading */
+            margin: 10px 0; /* Margin for the line */
         }
     </style>
 </head>
@@ -245,20 +265,37 @@
 
     <section class="py-5 bg-light" id="contact">
         <div class="container text-center">
-            <h2 class="section-title">Contact Me</h2>
-            <div class="contact-links">
-                <p><i class="fas fa-envelope me-2"></i>Email: <a
-                        href="mailto:akan.sharma1006@gmail.com">akan.sharma1006@gmail.com</a></p>
-                <p><i class="fab fa-linkedin me-2"></i>LinkedIn: <a href="#">LinkedIn Profile</a></p>
-                <p><i class="fas fa-globe me-2"></i>Portfolio: <a href="#">Portfolio/Website</a></p>
+            <h2 class="section-title mb-4">Contact Me</h2>
+            <div class="contact-container m-5 p-3">
+                <div class="row justify-content-center">
+                    <div class="col-md-7 mb-3">
+                        <div class="card shadow">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <h5 class="mb-0"><i class="fas fa-envelope me-2 "></i>Email <a href="mailto:hirewithakanksha@gmail.com" class="text-decoration-none px-4">: hirewithakanksha@gmail.com</a></h5>  
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div><br>
+                   
+                    <div class="col-md-7 mb-3">
+                        <div class="card shadow">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <h5 class="mb-0"><i class="fas fa-mobile-alt me-2"></i>Mobile<a href="tel:+918085448328" class="text-decoration-none px-4">: +91 8085448328</a></h5>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
-
     <footer class="bg-dark text-white py-4">
         <div class="container text-center">
-            <p>&copy; 2023 Akanksha Sharma. All rights reserved.</p>
-            <a href="test.html">Test</a>
+            <p>&copy; 2025 Akanksha Sharma. All rights reserved.</p>
         </div>
     </footer>
 
